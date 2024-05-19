@@ -6,13 +6,13 @@ It's a fun experiment to show the impact position size (risk) can have in differ
 
 For example, allocating all your capital to a series of "sure thing" trades which have a 90% chance of doubling your money can have disatrous outcomes.
 
-| Position Size | Win Probability | Return on Win | Average Return |
+| Position Size | Win Probability | Return on Win | Average Capital Left |
 |---------------|-----------------|---------------|----------------|
 | 100%          | 90%             | 200%          | 0%             |
 
 On the other hand, taking many asymmetric bets (small bets / small risk but each having the potential to pay off huge) can be very lucrative.
 
-| Position Size | Win Probability | Return on Win | Average Return |
+| Position Size | Win Probability | Return on Win | Average Capital Left |
 |---------------|-----------------|---------------|--------------------|
 | 2%            | 10%             | 3000%         | 4300%              |
 
