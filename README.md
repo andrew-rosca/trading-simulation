@@ -18,7 +18,13 @@ On the other hand, taking many asymmetric bets (small bets / small risk but each
 
 ### Usage
 
-The script accepts the following parameters as command line inputs:
+#### Command-Line Usage
+
+Example usage:
+
+```sh
+python simulate.py --position_size 0.15 --win_prob 0.55 --return_on_win 2.5
+```
 
 #### Key Parameters
 1. **Position Size (`--position_size`)**:
@@ -39,11 +45,3 @@ The defaults are:
 * initial capital: 1000
 * number of simulations: 1000
 * number of trades per simulation: 100
-
-#### Command-Line Usage
-
-Example usage:
-
-```sh
-python simulate.py --position_size 0.15 --win_prob 0.55 --return_on_win 2.5
-```
